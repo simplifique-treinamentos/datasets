@@ -1,2 +1,8 @@
-# datasets
-Dados públicos para aprendizagem de técnicas de ML
+# Datasets
+
+## Lista de datasets utilizados
+
+* hearts.csv - Arquivo CSV para predição de doenças coronarianas. 
+  * Fonte Original: UCI Heart Disease (https://archive.ics.uci.edu/ml/datasets/Heart+Disease) 
+  * Data: 1988 - USA
+  * Importado do kaggle (https://www.kaggle.com/ronitf/heart-disease-uci?select=heart.csv)
